@@ -1,1 +1,1 @@
-"Coding with heart and purpose. 🚀 Code, create, innovate!"
+const bio = "Coding with heart and purpose. 🚀 Code, create, innovate!";
